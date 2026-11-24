@@ -1,0 +1,11 @@
+submission: 01a20f2a-29fb-738e-ae28-22b56d342607
+competition: u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046
+repo: https://github.com/shelbyxxx1/angry-judge-rant
+commit: beedaa303b1429b1c82814a9ad634713305cce41
+codex session: 01a20f1a-8a43-7602-b8b7-6bfc5cb5f27a (Codex 0.80.0 + gpt-6.1-sol via run-codex-old.py; astra 404)
+title: The Public Sink Faucet's Human CAPTCHA
+rant (221 chars): At the public sink, the faucet dies mid-rinse, so I wave my soapy hands under it like a tiny helicopter trying to land. Apparently its CAPTCHA is just: prove you're human by flapping harder while the soap sets like grout.
+submitted: 2026-11-25 ~03:05 WIB (receipt 2026-11-24T20:05:51Z)
+status: submitted, outcome not decided; all intake checks pass (repo_readme + repo_about pass); grading queued, no score yet — blind round 1 cutoff 2026-11-25T03:04:36Z (10:04 WIB), result due 2026-12-17
+kit check: 16 passed, 0 failed, 5 skipped, 3 checked at submission
+bundle: angry-judge-bundle.tar.gz sha256 f79db975d2ca5b30ea2fd1ad94b40d1f0e4ee687db04280cd8d4599641547d52
